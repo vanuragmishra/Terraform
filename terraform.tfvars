@@ -12,4 +12,8 @@ resource_group={
         name     = "rg3"
         location = "East US"
     }
+          rg4= {
+        name     = "rg4"
+        location = "East US"
+    }
 }
